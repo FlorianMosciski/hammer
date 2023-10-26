@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+#*-!- coding: utf-8 -*-
 
 # python 3.3.2+ Hammer Dos Script v.1
 # by Can Yalçın
@@ -161,3 +161,4 @@ if __name__ == '__main__':
 			w.put(item)
 		q.join()
 		w.join()
+ 
